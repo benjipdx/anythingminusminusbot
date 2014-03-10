@@ -7,7 +7,7 @@ if [ $2 != '' ] && [ -f $2 ] ; then
 fi
 
 #botname
-ircnick=calcportal
+ircnick=$3
 
 #thing you hate most in the world
 minusminus=calcportal
